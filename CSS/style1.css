@@ -1,0 +1,60 @@
+body{
+    color:black;
+    font-family:'Nunito', sans-serif;
+    text-transform: uppercase;
+}
+a{
+    color: black !important;
+}
+/*---MENU---*/
+.mainmenu{  
+    background-color: #a9cf8ea7;
+}
+.logo{
+    width: 12vw;
+}
+.mehuh{
+    visibility: hidden;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/*Categorias*/
+.img{
+    transition: transform 0.5s;
+    border-radius: 10px;
+    box-shadow: 1px 10px 15px rgba(0,0,0,0.50);
+}
+
+.img:hover{
+    transform: scale(1.1);
+}
+
+.background{
+    background-color: #a9cf8e93;
+}
+
+/*-----NOSOTROS PAGINA------*/
+#nospag{
+    background-image: url(../IMAGES/fondo\ plantas.png);
+    height: 650px;
+}
+
+.externo{
+    height: 40px;
+}
+.busqueda{
+    margin-left: 10px;
+    position: relative;
+    top: -2px
+}
+
+@media screen and (min-width:360px) and (max-width:767px){
+    
+    a{
+        font-size: smaller !important;
+    }
+
+    }
