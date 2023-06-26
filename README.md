@@ -1,2 +1,2 @@
 ﻿# TiendaVerde
-Rediseño de página web existente para el proyecto final del curso Bootstrap de la UTN.
+Creación de página web utilizando Bootstrap. Curso UTN.
